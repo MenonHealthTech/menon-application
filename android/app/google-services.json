@@ -1,0 +1,201 @@
+{
+  "project_info": {
+    "project_number": "538539739075",
+    "firebase_url": "https://menonhealthtest.firebaseio.com",
+    "project_id": "menonhealthtest",
+    "storage_bucket": "menonhealthtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538539739075:android:cfac348feb6e7426371f76",
+        "android_client_info": {
+          "package_name": "com.example.healthmenon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538539739075-0ahcum537hgdcu9m1r2ta2m1t0d6ssaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthmenon",
+            "certificate_hash": "2ad16838cd6d1faff0a63e50d85356c35669b138"
+          }
+        },
+        {
+          "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1z6lu9h-sX-FjAytzqX_i0hk_bc7yAxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538539739075:android:aa42af08c2c1311e371f76",
+        "android_client_info": {
+          "package_name": "com.example.menon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538539739075-286652g69vgs2fpv27ufgupgifku2a7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menon",
+            "certificate_hash": "2ad16838cd6d1faff0a63e50d85356c35669b138"
+          }
+        },
+        {
+          "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1z6lu9h-sX-FjAytzqX_i0hk_bc7yAxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538539739075:android:99b310156fbdfb96371f76",
+        "android_client_info": {
+          "package_name": "com.example.menon_health_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1z6lu9h-sX-FjAytzqX_i0hk_bc7yAxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538539739075:android:ea55dd5e148fbcd2371f76",
+        "android_client_info": {
+          "package_name": "com.example.notification_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1z6lu9h-sX-FjAytzqX_i0hk_bc7yAxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538539739075:android:e84a2a556d964a71371f76",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1z6lu9h-sX-FjAytzqX_i0hk_bc7yAxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538539739075:android:aa1266b3f18563a2371f76",
+        "android_client_info": {
+          "package_name": "com.example.wetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1z6lu9h-sX-FjAytzqX_i0hk_bc7yAxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538539739075-dmvvj5eual3b2tkp9t28intt4ss79s2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
